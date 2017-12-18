@@ -1,0 +1,1 @@
+0 3 * * * python /usr/lib/python2.7/site-packages/pihole-alerts/alerts.py
